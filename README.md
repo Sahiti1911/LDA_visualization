@@ -49,6 +49,7 @@ python lda_visualization.py
 ![pyLDAvis Example](https://github.com/user-attachments/assets/9aad95fd-1193-4099-a6d9-8b82eeab3be1)
 
 **Word Cloud of Topics:**
+
 ![Word Cloud Example](https://github.com/user-attachments/assets/9c8b370f-8a22-4767-9fb8-82238b69ace3)
 
 
