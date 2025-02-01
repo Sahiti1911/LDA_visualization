@@ -49,7 +49,8 @@ python lda_visualization.py
 ![pyLDAvis Example](https://miro.medium.com/max/1400/1*UyOGa52b6n1tdtt8LsEVvQ.gif)
 
 **Word Cloud of Topics:**
-![Word Cloud Example](https://raw.githubusercontent.com/yourusername/lda-visualization/main/wordcloud.png)
+![Word Cloud Example](https://github.com/user-attachments/assets/9c8b370f-8a22-4767-9fb8-82238b69ace3)
+
 
 ## 📖 References
 - Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). *Latent Dirichlet Allocation*.
