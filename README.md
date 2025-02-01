@@ -46,7 +46,7 @@ python lda_visualization.py
 
 ## 📊 Example Output
 **LDA Interactive Visualization:**
-![pyLDAvis Example](https://miro.medium.com/max/1400/1*UyOGa52b6n1tdtt8LsEVvQ.gif)
+![pyLDAvis Example](https://github.com/user-attachments/assets/9aad95fd-1193-4099-a6d9-8b82eeab3be1)
 
 **Word Cloud of Topics:**
 ![Word Cloud Example](https://github.com/user-attachments/assets/9c8b370f-8a22-4767-9fb8-82238b69ace3)
