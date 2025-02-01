@@ -1,6 +1,5 @@
 # 📊 LDA Topic Modeling & Visualization
 
-![LDA Visualization](https://miro.medium.com/max/1200/1*q-7AbUncfYb5bbHe4T3P3g.png)
 
 ## 🔍 Overview
 This project applies **Latent Dirichlet Allocation (LDA)** to analyze topics in the **NIPS Papers Dataset** and visualizes the extracted topics in an interactive manner. The dataset contains research papers from the prestigious Neural Information Processing Systems (NIPS) conference, making it a valuable resource for analyzing trends in machine learning research.
